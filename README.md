@@ -6,6 +6,12 @@ An AI tutor that reads your lecture materials and quizzes you on them.
 
 ## Setup
 
+0. Prepare the environment
+
+To run the demo, you will need a recent Python version and the 
+[uv](https://github.com/astral-sh/uv) package manager.
+You can use the attached Dev Container with your favorite IDE.
+
 1. Install dependencies:
 
 ```bash
